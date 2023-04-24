@@ -30,6 +30,7 @@
               "src/assets"
             ],
             "styles": [
+              "/home/hikmah/Documents/hotel_inventory_app/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.scss"
             ],
             "scripts": []

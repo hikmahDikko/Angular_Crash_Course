@@ -48,4 +48,10 @@ export class RoomsComponent {
   toggle(){
     this.hideRooms = !this.hideRooms;
   }
+
+  selectedRoom! : RoomList;
+
+  selectRoom(room : RoomList) {
+    this.selectedRoom =room;
+  }
 }
